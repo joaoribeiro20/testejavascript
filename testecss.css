@@ -1,0 +1,59 @@
+
+.topo{
+    background-color: bisque;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo{
+    color: rgb(0, 86, 136);
+}
+.sobre{
+    background-color: rgb(1, 95, 124);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.centro{
+    background-color: rgb(0, 213, 228);
+    height: 300px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items
+    : center;
+}
+.caixa1{
+    color: aliceblue;
+    background-color: rgb(4, 0, 63);
+    border-radius: 10px;
+    height: 150px;
+}
+.caixa2{
+    color: aliceblue;
+    background-color: rgb(4, 0, 63);
+    border-radius: 10px;
+    height: 150px;
+
+}
+.caixa3{
+    color: aliceblue;
+    background-color: rgb(4, 0, 63);
+    border-radius: 10px;
+    height: 150px;
+}
+#re{
+    
+    color: rgba(255, 14, 14, 0.5);
+}
+.resultado{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
